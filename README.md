@@ -1,6 +1,6 @@
 # metamask extension
 linking the chains to onboard the next 100 million participants
-metamask snap extenstions for deltaverse
+metamask snap extenstions for <a href="https://deltavthrust.com">deltaverse</a>
 
 
 MetaMask Snaps: Overview
@@ -14,9 +14,7 @@ Enhanced User Experience: For users, this means a seamless experience when deali
 Deltaverse - A Multichain Ecosystem
 Decentralized and Diverse: The Deltaverse represents a decentralized and diverse ecosystem with numerous blockchains. Snaps play a vital role in bridging these chains, enabling fluid asset transfer and information exchange.
 Innovative DApps and Services: Developers can create more innovative dApps and services that operate across different blockchains, leveraging the unique features of each chain.
-README.md Content for the GitHub Repository
-markdown
-Copy code
+
 # MetaMask Snaps for Deltaverse Interoperability
 
 Welcome to the GitHub repository for MetaMask Snaps focused on enhancing cross-chain interoperability within the Deltaverse.
