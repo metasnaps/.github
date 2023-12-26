@@ -50,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For any queries or collaboration ideas, please open an issue in this repository or contact our maintainer team.
 
-Enjoy building a more interconnected Deltaverse with MetaMask Snaps!
+Enjoy building a more interconnected <a href="https://deltav.exchange">DeltaVerse</a> with MetaMask Snaps!
 This README.md provides a concise yet comprehensive introduction to the purpose and use of MetaMask Snaps in enhancing cross-chain interoperability within the Deltaverse. ​
