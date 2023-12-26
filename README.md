@@ -1,4 +1,5 @@
 # metamask extension
+linking the chains to onboard the next 100 million participants
 metamask snap extenstions for deltaverse
 
 
